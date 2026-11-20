@@ -1,0 +1,10 @@
+# Build outputs and source footage — never committed.
+*.mp4
+*.webm
+trailer2-source.mp4
+part1.mp4
+part2.mp4
+thumbs/
+*.jpg
+out/
+node_modules/
